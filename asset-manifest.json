@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dashboard-material-ui/static/css/main.9e6882cf.chunk.css",
+    "main.js": "/dashboard-material-ui/static/js/main.59d3c9be.chunk.js",
+    "main.js.map": "/dashboard-material-ui/static/js/main.59d3c9be.chunk.js.map",
+    "runtime-main.js": "/dashboard-material-ui/static/js/runtime-main.09ddb6e7.js",
+    "runtime-main.js.map": "/dashboard-material-ui/static/js/runtime-main.09ddb6e7.js.map",
+    "static/js/2.82789d5e.chunk.js": "/dashboard-material-ui/static/js/2.82789d5e.chunk.js",
+    "static/js/2.82789d5e.chunk.js.map": "/dashboard-material-ui/static/js/2.82789d5e.chunk.js.map",
+    "index.html": "/dashboard-material-ui/index.html",
+    "static/css/main.9e6882cf.chunk.css.map": "/dashboard-material-ui/static/css/main.9e6882cf.chunk.css.map",
+    "static/js/2.82789d5e.chunk.js.LICENSE.txt": "/dashboard-material-ui/static/js/2.82789d5e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09ddb6e7.js",
+    "static/js/2.82789d5e.chunk.js",
+    "static/css/main.9e6882cf.chunk.css",
+    "static/js/main.59d3c9be.chunk.js"
+  ]
+}
